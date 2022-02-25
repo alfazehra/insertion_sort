@@ -15,3 +15,5 @@ Birinci kısımda en küçük değer yer alır ve bunda sonraki ikinci kısımda
 [2,6,16,18,22,27] şeklinde küçükten büyüğe göre sıralama gerçekleşir.
 
 
+Big-O gösterimini yazınız.
+
